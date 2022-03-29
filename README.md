@@ -11,3 +11,17 @@ Create a system for the client to organise work and create a new email/google ac
 Style the site to the client's desire.
 Assist in the creation of customer information leaflets.
 Assist in creating business cards.
+
+Project Plan
+
+Aquire website specs.
+Research existing websites to show the client how it could look. 
+Once agreed, create a wireframe on Excalidraw (insert below).
+When finalised begin creating the website to spec.
+Test website.
+When client happy with website, buy domain name.
+Go live with website.
+Create social media accounts for business.
+Create google accounts for business.
+Create business cards with QR and URL on.
+Create customer information leaflets with QR code and URL on.
