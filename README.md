@@ -24,5 +24,5 @@ The aim of this project is to create a website for the client’s car detailing 
 * Create social media accounts for business.
 * Create google accounts for business.
 * Create business cards with QR and URL on them.
-* Create customer information leaflets with QR code and URL on.
+** Create custom with QR code and URL on.
 
